@@ -1,4 +1,4 @@
-[Header](https://github.com/BenFrancka/BenFrancka/blob/main/header.png)
+<img src="https://github.com/BenFrancka/BenFrancka/blob/main/header.png">
 
 # Ben Francka
 ## Software Engineer
