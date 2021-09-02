@@ -13,8 +13,7 @@ Full stack software engineer who has taken a diligent work ethic from the cattle
 - Express
 - PostgreSQL
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<BENFRANCKA>&theme=<THEME_NAME>" />
-
+[LinkedIn]("https://www.linkedin.com/in/ben-francka/")
 
 
 
