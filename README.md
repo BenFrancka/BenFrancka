@@ -13,7 +13,7 @@ Full stack software engineer who has taken a diligent work ethic from the cattle
 - Express
 - PostgreSQL
 ---
-[LinkedIn]("https://www.linkedin.com/in/ben-francka/")
+[LinkedIn](https://www.linkedin.com/in/ben-francka/)
 
 
 
