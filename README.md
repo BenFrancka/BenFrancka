@@ -14,6 +14,11 @@ Full stack software engineer who has taken a diligent work ethic from the cattle
 - Node.js
 - Express
 - PostgreSQL
+
+- Jest
+- React Testing Library
+- Cypress
+- Manual UI testing
 ---
 [LinkedIn](https://www.linkedin.com/in/ben-francka/)
 
